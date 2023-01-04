@@ -1,0 +1,4 @@
+exclude-from-graph-view:: true
+
+- Den næste helgen er Azarael, Helgen af opofrelse. Ikke meget vides om Azaraels tidligere liv, nogen siger han var en præst for en anden helgen, nogen siger han var en tigger, det eneste der vides med sikkerhed er at Azaraels er den helgen flest mennesker påstår at have set. Han er en af de mest tilbedte helgener, og hans tilbedere har flere religiøse heligdage hvor de går rundt og ofresig for andres ve og vel, eftersigende for at komme tættere på at efterligne Azarael. Der findes derfor næsten altid en kult til Azarael i enhver by som består af mere end et bondehus og en svinesti, og om ikke andet er der ihvertfald en helligdom man kan tilbede ved byens markedsplads/andedam.
+- ![](https://i.imgur.com/wrGaotw.jpeg){:height 808, :width 514}

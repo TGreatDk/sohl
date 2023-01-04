@@ -1,0 +1,9 @@
+exclude-from-graph-view:: true
+
+- #[[Anariel  Saint of Storms]]
+- #[[Azarael Saint of Sacrifice]]
+- #[[Bezaliel Saint of Shadows]]
+- #[[Chazaqiel Saint of the Dead]]
+- #[[Rahab - Saint of the deep]]
+- #[[Samyzz Saint of Pride]]
+- #[[Turiel Saint of Mountains]]
