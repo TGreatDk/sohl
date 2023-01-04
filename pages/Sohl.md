@@ -14,5 +14,3 @@ exclude-from-graph-view:: true
 	- #Jaylin
 	- #Amie
 	- #Lark
-		-
--
