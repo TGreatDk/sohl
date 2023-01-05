@@ -5,4 +5,4 @@ alive:: false
 - Slået ihjel af vargris i #[[Green Sea]]
 -
 - ### Known facts
-	- Owes a lot of people a lot of moneygit
+	- Owes a lot of people a lot of money
