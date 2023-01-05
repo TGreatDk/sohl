@@ -6,6 +6,13 @@
 - Personer
 	- #Fausvar - jeres handler
 	- #Golos - Ejer og bestyrer af kompaniet.
+	- "Indkrævnings holdet"
+		- Korgat
+			- En Halv-ogre med en pendant for at spørge sidst og slå først
+		- Eitrak
+			- En Githyanki - kalder sig selv en "Ronin" hvad end det betyder. Han har et magisk sværd som han fører med meget stor præcision
+		- Vadok
+			- En Half-Elf/Half-Dwarf magiker - gruppens face og talerør. Er et stort røvhul, men "Get's the job done"
 - Logo
   collapsed:: true
 	- https://media.discordapp.net/attachments/1025301382225465354/1029093334477705237/unknown.png?width=898&height=898
