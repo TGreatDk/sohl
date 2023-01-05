@@ -9,8 +9,4 @@ exclude-from-graph-view:: true
 	- #[[Mysterious disappearances]]
 - Grupper
 	- #[[Det brændende sværd.]]
-- Spillere
-	- #[[M'Ork]]
-	- #Jaylin
-	- #Amie
-	- #Lark
+- #Party {{embed ((63b6363b-ee9d-40db-80a8-9cc49a32bdeb))}}
