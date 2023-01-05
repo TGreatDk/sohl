@@ -31,4 +31,10 @@ alive:: true
   De er det perfekte makkerpar.
   
   En dag beslutter hun sig for at blive en del af det brændende svær i håb om at finde ud af hvorfor Osty forsvandt - ingen ved hvordan dette kommer til at ende.
--
+- ### Known facts
+	- ?
+	- ?
+	- ?
+### Rumors
+	- Har aldrig smagt en fisk
+	- Bedstefar var en højtrangerende præst inden "Skandalen"
