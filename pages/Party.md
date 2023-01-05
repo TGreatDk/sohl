@@ -8,6 +8,7 @@
 		- #Amie
 		- #Lark (Intern)
 	- ### Former
+	  collapsed:: true
 		- ~~#[[Kurt]]~~ (Deceased)
 -
 - ## Quests
