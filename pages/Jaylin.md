@@ -17,6 +17,7 @@ alive:: true
 	- Has lost his memory
 	- Attempts to do the right thing
 	- Is wanted for tax-evasion
+-
 - ### Rumors
 	- Do not believe in showering/washing
 	- Hates dwarves

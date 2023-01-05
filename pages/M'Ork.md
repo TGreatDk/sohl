@@ -21,7 +21,8 @@ alive:: true
 - ### Known facts
 	- Killed his brother
 	- Has a wife and 13 children
-	- Helped save #Jaylin
+	- Helped #[[Kurt]] save #Jaylin
+-
 - ### Rumors
 	- He killed his brother *on purpose*
 	- He has laid with a bear
