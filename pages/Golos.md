@@ -1,4 +1,5 @@
 exclude-from-graph-view:: true
+character-type:: NPC
 
 - Tidligere eventyrer og nu ejer af #[[Det brændende sværd.]]
 - Har tjent største delen af hans penge på et eventyr der involverede en magiker, Caestier.

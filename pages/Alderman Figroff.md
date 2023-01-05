@@ -1,4 +1,5 @@
 exclude-from-graph-view:: true
+character-type:: NPC
 
 - Related to #[[Gerard Figroff]]
 - Har en relation til #Karina

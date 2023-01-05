@@ -1,3 +1,5 @@
+- Currently working for #[[Det brændende sværd.]]
+-
 - ## Members
 	- ### Current
 	  id:: 63b6363b-ee9d-40db-80a8-9cc49a32bdeb
@@ -6,4 +8,13 @@
 		- #Amie
 		- #Lark (Intern)
 	- ### Former
+	  collapsed:: true
 		- #Kurt (Deceased)
+-
+- ## Quests
+	- ### Current
+		- N/A
+	-
+	- ### Past
+	  collapsed:: true
+		- #[[Mysterious disappearances]]

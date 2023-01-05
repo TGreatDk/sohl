@@ -1,4 +1,5 @@
 exclude-from-graph-view:: true
+character-type:: NPC
 
 - Ridder på #Bessie
 - Forstår kromanden fra #[[Unnamed village in Green Sea]] kroen
