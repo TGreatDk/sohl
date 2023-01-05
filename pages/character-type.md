@@ -5,9 +5,7 @@ exclude-from-graph-view:: true
 -
 - ### All NPC's
   collapsed:: true
-	- query-sort-by:: page
-	  query-sort-desc:: false
-	  query-properties:: [:page :alive]
+	- query-properties:: [:page :alive]
 	  #+BEGIN_QUERY
 	  {
 	   :query [
