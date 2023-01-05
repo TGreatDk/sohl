@@ -1,3 +1,8 @@
+character-type:: player-character
+character-player:: Benjamin
+alive:: true
+
+-
 - ### Real name unknown
   
   Age: 25
@@ -33,6 +38,3 @@
 	- Drinks human blood
 	- Has found a hidden treasure as a child but it was stolen
 -
-- character-type:: player-character
-  character-player:: Benjamin
-  alive:: true

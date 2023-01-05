@@ -1,3 +1,8 @@
+character-type:: player-character
+character-player:: Lasse
+alive:: true
+
+-
 - ### The barbarian whaler
   
   Age: 32
@@ -12,7 +17,3 @@
   Over the years due to M’ork and his brother’s rivalry a rumor had started brewing in the town that the death of his brother was no accident but an act of malice. and that M’ork had intentionally killed him to get to marry his wife.
   
   Over the years M’ork grew tired of the stigma that had started to surround him with rumors so vulgar as to suggest he had been with a bear and sought out a new life with his friend Kurt, a drinking buddy he had spent many nights at the local pub with, and they drew to the city of Gammelby and joined with the mercenary company of det brændene swærd. seeking the glory of the riches from adventuring
--
-character-type:: player-character
-character-player:: Lasse
-alive:: true

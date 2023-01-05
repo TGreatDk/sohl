@@ -1,3 +1,8 @@
+character-type:: player-character
+character-player:: Thobias
+alive:: true
+
+-
 - Age: 20-30
   Height 180 cm
   
@@ -11,6 +16,3 @@
 	- Was saved by #[[M'Ork]] and #Kurt
 	- Has lost his memory
 -
-- character-type:: player-character
-  character-player:: Thobias
-  alive:: true

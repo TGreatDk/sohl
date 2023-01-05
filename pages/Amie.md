@@ -1,3 +1,8 @@
+character-type:: player-character
+character-player:: Tobhias
+alive:: true
+
+-
 - ### Amie Longstride
   
   Age: 21
@@ -27,6 +32,3 @@
   
   En dag beslutter hun sig for at blive en del af det brændende svær i håb om at finde ud af hvorfor Osty forsvandt - ingen ved hvordan dette kommer til at ende.
 -
-- character-type:: player-character
-  character-player:: Tobhias
-  alive:: true
