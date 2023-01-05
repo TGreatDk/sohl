@@ -5,10 +5,10 @@ exclude-from-graph-view:: true
 -
 - ### All NPC's
   collapsed:: true
-	- query-table:: false
-	  query-properties:: [:page :alive]
-	  query-sort-by:: page
+	- query-sort-by:: page
+	  query-table:: false
 	  query-sort-desc:: false
+	  query-properties:: [:page :alive]
 	  #+BEGIN_QUERY
 	  {
 	   :query [
@@ -18,6 +18,7 @@ exclude-from-graph-view:: true
 	           ]
 	  }
 	  #+END_QUERY
+	-
 - ### All player characters
   collapsed:: true
 	- query-properties:: [:page :character-player :alive]
