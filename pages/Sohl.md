@@ -10,3 +10,17 @@ exclude-from-graph-view:: true
 	- {{embed ((63b6ae8a-b75c-4057-9d9d-933efa62dbd5))}}
 - Grupper
 	- #[[Det brændende sværd.]]
+- query-sort-by:: page
+  query-sort-desc:: true
+  query-properties:: [:page :created-at]
+  #+BEGIN_QUERY
+  {
+  :title "All journals"
+   :query [:find (pull ?p [*])
+             :where
+             [?b :block/page ?p]
+             [?p :block/journal? true]
+             [?p :block/journal-day ?d]]
+  }
+  #+END_QUERY
+-
