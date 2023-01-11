@@ -1,4 +1,4 @@
-- Currently working for #[[Det brændende sværd.]]
+- Currently working for #[[Det brændende sværd]]
 -
 - ### Members
   id:: 63b6ae8a-825e-4ffd-a312-a146bac7c99c
