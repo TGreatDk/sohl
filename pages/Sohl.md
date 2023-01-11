@@ -10,6 +10,7 @@ exclude-from-graph-view:: true
 	- {{embed ((63b6ae8a-b75c-4057-9d9d-933efa62dbd5))}}
 - Grupper
 	- #[[Det brændende sværd.]]
+		- {{embed ((63bea30a-ea48-4399-98df-38de878f68cf))}}
 - query-sort-by:: page
   query-sort-desc:: true
   query-properties:: [:page :created-at]
