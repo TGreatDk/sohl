@@ -8,6 +8,7 @@
 		- #Jaylin
 		- #Amie
 		- #Lark (Intern)
+		- #Thrud
 	- #### Former
 	  collapsed:: true
 		- ~~#[[Kurt]]~~ (Deceased)
