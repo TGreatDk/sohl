@@ -1,7 +1,27 @@
 exclude-from-graph-view:: true
-character-type:: NPC
-alive:: true
 
-- Tidligere eventyrer og nu ejer af #[[Det brændende sværd]]
-- Har tjent største delen af hans penge på et eventyr der involverede en magiker, Caestier.
-- https://i.pinimg.com/236x/fc/4c/b3/fc4cb380fdecf33e4a87b5b3c0f9ac12.jpg
+- Sohl
+- #Religioner
+- Områder
+	- #[[Green Sea]]
+	- #Gammelstad
+- #Party
+	- {{embed ((63b6ae8a-825e-4ffd-a312-a146bac7c99c))}}
+	- {{embed ((63b6ae8a-b75c-4057-9d9d-933efa62dbd5))}}
+- Grupper
+	- #[[Det brændende sværd]]
+		- {{embed ((63bea30a-ea48-4399-98df-38de878f68cf))}}
+- query-sort-by:: page
+  query-sort-desc:: true
+  query-properties:: [:page :created-at]
+  #+BEGIN_QUERY
+  {
+  :title "All journals"
+   :query [:find (pull ?p [*])
+             :where
+             [?b :block/page ?p]
+             [?p :block/journal? true]
+             [?p :block/journal-day ?d]]
+  }
+  #+END_QUERY
+-
