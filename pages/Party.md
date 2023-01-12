@@ -16,7 +16,7 @@
 - ### Quests
   id:: 63b6ae8a-b75c-4057-9d9d-933efa62dbd5
 	- #### Current
-		- N/A
+		- #[[Mysteriet om Bordouxridderes orden]]
 	- #### Past
 	  collapsed:: true
 		- #[[Mysterious disappearances]]
