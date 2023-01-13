@@ -33,4 +33,4 @@
 	- #[[Mysteriet om Bordouxridderes orden]]
 		- Time:: 6 months
 		  Pay:: 1000g per person +10000g if we deliver the old magic sword
-		  Notes:: Very dangerous job which may involve #[[Naus den røde drage]] and #Oswin
+		  Notes:: Very dangerous job which may involve #[[Knaus den røde drage]] and #Oswin
