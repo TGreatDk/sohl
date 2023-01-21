@@ -22,4 +22,3 @@ exclude-from-graph-view:: true
              [?p :block/journal-day ?d]]
   }
   #+END_QUERY
--
