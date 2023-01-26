@@ -1,0 +1,4 @@
+- Orkerne tilbeder dyreånder, som alle ses som aspekter af deres 2 guder
+- Gush og Gash
+	- Gush er snedig - men hård.
+	- Gash er hård - men snedig.
