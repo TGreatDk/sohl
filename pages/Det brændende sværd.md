@@ -19,14 +19,17 @@
 - ### Job board
   id:: 63bea30a-ea48-4399-98df-38de878f68cf
 	- Guard a merchant caravan
+	  collapsed:: true
 		- Time:: ~3 weeks
 		  Pay:: 1000g (100g + 900g)
 		  Notes:: Get 5% discount on the merchants wares
 	- Save a nearby town from bandits
+	  collapsed:: true
 		- Time:: ?
 		  Pay:: 100g
 		  Notes:: Bandits have been extorting the town for a month
 	- Guard a nobleman
+	  collapsed:: true
 		- Time:: 1 year
 		  Pay:: 1000g
 		  Notes:: #Fausvar says that this guy is cheap and that's why nobody has taken the contract yet

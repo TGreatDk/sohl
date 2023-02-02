@@ -20,6 +20,8 @@ exclude-from-graph-view:: true
              [?b :block/page ?p]
              [?p :block/journal? true]
              [?p :block/journal-day ?d]]
+   :result-transform (fn [result]
+  	                   (sort-by (fn [h]
+  	                     (get (get h :block/page) :block/journal-day)) result))
   }
   #+END_QUERY
--
