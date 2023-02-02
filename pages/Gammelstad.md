@@ -11,5 +11,4 @@
 		- En butik som sælger østerlandets vidundre.
 			- Ejet og drevet af Madam Zheung
 - Kort over området
-  collapsed:: true
 	- https://i.imgur.com/YXNVaQk.jpg

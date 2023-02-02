@@ -7,3 +7,4 @@ exclude-from-graph-view:: true
 - #[[Rahab - Saint of the deep]]
 - #[[Samyzz Saint of Pride]]
 - #[[Turiel Saint of Mountains]]
+- #[[Penmue saint of the written word]]
