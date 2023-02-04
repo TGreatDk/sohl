@@ -2,6 +2,7 @@ exclude-from-graph-view:: true
 
 - Sohl
 - #Religioner
+- #[[Arts linier]]
 - Områder
 	- #[[Green Sea]]
 	- #Gammelstad
@@ -12,6 +13,8 @@ exclude-from-graph-view:: true
 	- #[[Det brændende sværd]]
 		- {{embed ((63bea30a-ea48-4399-98df-38de878f68cf))}}
 - query-properties:: [:page :created-at]
+  query-sort-by:: page
+  query-sort-desc:: true
   #+BEGIN_QUERY
   {
   :title "All journals"
