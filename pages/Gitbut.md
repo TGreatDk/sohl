@@ -1,5 +1,6 @@
 character-type:: NPC
 alive:: true
+alias:: Kitbut
 
 - Gitbut er en goblin vi mødte som var taget til fange af en Hill Giant.
 - Han virkede ret utilfreds med sin situration så vi hjalp ham med at slippe fri fra kæmpen ved efter en lang hård kamp at slå kæmpen ihjel

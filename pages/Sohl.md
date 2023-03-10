@@ -12,16 +12,16 @@ exclude-from-graph-view:: true
 - Grupper
 	- #[[Det brændende sværd]]
 		- {{embed ((63bea30a-ea48-4399-98df-38de878f68cf))}}
-  #+BEGIN_QUERY
-  {
-  :title "All journals"
-   :query [:find (pull ?p [*])
-             :where
-             [?b :block/page ?p]
-             [?p :block/journal? true]
-             [?p :block/journal-day ?d]]
-   :result-transform (fn [result]
-  	                   (sort-by (fn [h]
-  	                     (get (get h :block/page) :block/journal-day)) result))
-  }
-  #+END_QUERY
+		    #+BEGIN_QUERY
+		    {
+		    :title "All journals"
+		     :query [:find (pull ?p [*])
+		           :where
+		           [?b :block/page ?p]
+		           [?p :block/journal? true]
+		           [?p :block/journal-day ?d]]
+		     :result-transform (fn [result]
+		                    (sort-by (fn [h]
+		                      (get (get h :block/page) :block/journal-day)) result))
+		    }
+		    #+END_QUERY
