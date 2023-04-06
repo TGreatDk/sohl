@@ -1,4 +1,4 @@
 character-type:: NPC
-alive:: true
+alive:: false
 
 - ![Fausvar billede](https://i.pinimg.com/originals/a7/45/c1/a745c12c618fe08ecfb6ad83014ee8cd.jpg)
