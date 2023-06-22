@@ -7,8 +7,8 @@
 		- #[[M'Ork]]
 		- #Jaylin
 		- #Amie
-		- #Lark (Intern)
-		- #Thrud
+		- #Lark
+		- #Thrud (Intern)
 	- #### Former
 	  collapsed:: true
 		- ~~#[[Kurt]]~~ (Deceased)
@@ -16,7 +16,7 @@
 - ### Quests
   id:: 63b6ae8a-b75c-4057-9d9d-933efa62dbd5
 	- #### Current
-		- #[[Mysteriet om Bordouxridderes orden]]
+		- Rebuilding #[[Det brændende sværd]]
 	- #### Past
-	  collapsed:: true
+		- #[[Mysteriet om Bordouxridderes orden]]
 		- #[[Mysterious disappearances]]
