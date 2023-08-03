@@ -12,6 +12,8 @@ exclude-from-graph-view:: true
 - Grupper
 	- #[[Det brændende sværd]]
 		- {{embed ((63bea30a-ea48-4399-98df-38de878f68cf))}}
+		  query-sort-by:: created-at
+		  query-sort-desc:: false
 		    #+BEGIN_QUERY
 		    {
 		    :title "All journals"
