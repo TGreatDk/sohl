@@ -302,4 +302,5 @@
  :editor/preferred-pasting-file? false
  :feature/enable-journals? false
  :default-home {:page "Sohl"}
+ :ui/show-brackets? false
  }
