@@ -299,7 +299,7 @@
  :graph/settings {:journal? false, :orphan-pages? false, :excluded-pages? false, :builtin-pages? false}
  :publishing/all-pages-public? true
  :feature/enable-timetracking? true
- :editor/preferred-pasting-file? false
+ :editor/preferred-pasting-file? true
  :feature/enable-journals? false
  :default-home {:page "Sohl"}
  :ui/show-brackets? false
