@@ -30,7 +30,7 @@
 {:block/content "[[Amie]] ((64ecc549-1aee-4b82-a4c3-450d2275988d))"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"}
+{:block/uuid #uuid "1fcd2295-45fc-47c0-a07b-2bb3929e65c1"}
 :block/parent 
 {:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"}
 :block/properties 
@@ -1124,172 +1124,22 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115461128
 :italic false}}
-:block/updated-at 1694115734870})
+:block/updated-at 1694115734870} 
+{:block/content "public:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"}
+:block/parent 
+{:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"}
+:block/properties 
+{:public true}
+:block/uuid #uuid "1fcd2295-45fc-47c0-a07b-2bb3929e65c1"})
 :pages (
 {:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :block/properties 
-{:ls-type :whiteboard-page
-:logseq.tldraw.page 
-{:id "64fa224c-a878-4b6b-b362-bd15bca1349c"
-:name "org chart [[det brændende sværd]]"
-:bindings 
-{:fd4fd170-4db5-11ee-85de-f13cf60c1ee7 
-{:id "fd4fd170-4db5-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "fd4fd172-4db5-11ee-85de-f13cf60c1ee7"
-:toId "92ccaad0-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:f5fbe710-4db5-11ee-85de-f13cf60c1ee7 
-{:id "f5fbe710-4db5-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "f5fbe712-4db5-11ee-85de-f13cf60c1ee7"
-:toId "9f2e3910-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:f5fbe711-4db5-11ee-85de-f13cf60c1ee7 
-{:id "f5fbe711-4db5-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "f5fbe712-4db5-11ee-85de-f13cf60c1ee7"
-:toId "ed921fe0-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.5 0.87]
-:distance 4}
-:2f3ec941-4db4-11ee-85de-f13cf60c1ee7 
-{:id "2f3ec941-4db4-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "2f3ec942-4db4-11ee-85de-f13cf60c1ee7"
-:toId "2261c970-4db4-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.52 0.96]
-:distance 4}
-:0229e230-4db6-11ee-85de-f13cf60c1ee7 
-{:id "0229e230-4db6-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "0229e232-4db6-11ee-85de-f13cf60c1ee7"
-:toId "7c75fa70-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:0229e231-4db6-11ee-85de-f13cf60c1ee7 
-{:id "0229e231-4db6-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "0229e232-4db6-11ee-85de-f13cf60c1ee7"
-:toId "dd616130-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.51 0.79]
-:distance 4}
-:ffa86771-4db5-11ee-85de-f13cf60c1ee7 
-{:id "ffa86771-4db5-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "ffa86772-4db5-11ee-85de-f13cf60c1ee7"
-:toId "ecf28480-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.57 0.62]
-:distance 4}
-:fa8aa8e0-4db3-11ee-85de-f13cf60c1ee7 
-{:id "fa8aa8e0-4db3-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "fa8aa8e2-4db3-11ee-85de-f13cf60c1ee7"
-:toId "a0acfbc0-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:01f04680-4db4-11ee-85de-f13cf60c1ee7 
-{:id "01f04680-4db4-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "01f04682-4db4-11ee-85de-f13cf60c1ee7"
-:toId "dd143d80-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:ff278991-4db3-11ee-85de-f13cf60c1ee7 
-{:id "ff278991-4db3-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "ff278992-4db3-11ee-85de-f13cf60c1ee7"
-:toId "e46d30f0-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.21 0.71]
-:distance 4}
-:fa8aa8e1-4db3-11ee-85de-f13cf60c1ee7 
-{:id "fa8aa8e1-4db3-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "fa8aa8e2-4db3-11ee-85de-f13cf60c1ee7"
-:toId "dd143d80-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.5 0.96]
-:distance 4}
-:2f3ec940-4db4-11ee-85de-f13cf60c1ee7 
-{:id "2f3ec940-4db4-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "2f3ec942-4db4-11ee-85de-f13cf60c1ee7"
-:toId "ecf8ff10-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:ff278990-4db3-11ee-85de-f13cf60c1ee7 
-{:id "ff278990-4db3-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "ff278992-4db3-11ee-85de-f13cf60c1ee7"
-:toId "dd143d80-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:01f04681-4db4-11ee-85de-f13cf60c1ee7 
-{:id "01f04681-4db4-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "01f04682-4db4-11ee-85de-f13cf60c1ee7"
-:toId "ecf8ff10-4db3-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.74 0.71]
-:distance 4}
-:fd4fd171-4db5-11ee-85de-f13cf60c1ee7 
-{:id "fd4fd171-4db5-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "fd4fd172-4db5-11ee-85de-f13cf60c1ee7"
-:toId "ed51bb80-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "end"
-:point [0.5 0.5]
-:distance 4}
-:ffa86770-4db5-11ee-85de-f13cf60c1ee7 
-{:id "ffa86770-4db5-11ee-85de-f13cf60c1ee7"
-:type "line"
-:fromId "ffa86772-4db5-11ee-85de-f13cf60c1ee7"
-:toId "869adf20-4db5-11ee-85de-f13cf60c1ee7"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}}
-:nonce 1
-:assets [
-{:id "4951be50-4db4-11ee-85de-f13cf60c1ee7"
-:type "image"
-:src "../assets/image_1694114721424_0.png"
-:size [210 150]} 
-{:id "a32420d0-4db4-11ee-85de-f13cf60c1ee7"
-:type "image"
-:src "../assets/image_1694114872153_0.png"
-:size [210 150]} 
-{:id "dcef0cd0-4db4-11ee-85de-f13cf60c1ee7"
-:type "image"
-:src "../assets/image_1694114969112_0.png"
-:size [210 150]} 
-{:id "24028bb0-4db5-11ee-85de-f13cf60c1ee7"
-:type "image"
-:src "../assets/image_1694115088359_0.png"
-:size [210 150]} 
-{:id "5eeaa780-4db5-11ee-85de-f13cf60c1ee7"
-:type "image"
-:src "../assets/image_1694115187188_0.png"
-:size [210 150]} 
-{:id "c7105620-4db5-11ee-85de-f13cf60c1ee7"
-:type "image"
-:src "../assets/image_1694115361919_0.png"
-:size [210 150]}]
-:shapes-index ("125e66e0-4db5-11ee-85de-f13cf60c1ee7" "125e66e2-4db5-11ee-85de-f13cf60c1ee7" "c75cbde0-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed40-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed42-4db4-11ee-85de-f13cf60c1ee7" "59616070-4db4-11ee-85de-f13cf60c1ee7" "a0acfbc0-4db3-11ee-85de-f13cf60c1ee7" "dd143d80-4db3-11ee-85de-f13cf60c1ee7" "e46d30f0-4db3-11ee-85de-f13cf60c1ee7" "ecf8ff10-4db3-11ee-85de-f13cf60c1ee7" "fa8aa8e2-4db3-11ee-85de-f13cf60c1ee7" "ff278992-4db3-11ee-85de-f13cf60c1ee7" "01f04682-4db4-11ee-85de-f13cf60c1ee7" "2261c970-4db4-11ee-85de-f13cf60c1ee7" "2f3ec942-4db4-11ee-85de-f13cf60c1ee7" "4952a8b0-4db4-11ee-85de-f13cf60c1ee7" "79d04b50-4db4-11ee-85de-f13cf60c1ee7" "a3253240-4db4-11ee-85de-f13cf60c1ee7" "dcf01e40-4db4-11ee-85de-f13cf60c1ee7" "c75cbde2-4db4-11ee-85de-f13cf60c1ee7" "24043960-4db5-11ee-85de-f13cf60c1ee7" "3acee140-4db5-11ee-85de-f13cf60c1ee7" "3acee142-4db5-11ee-85de-f13cf60c1ee7" "5eeb6ad0-4db5-11ee-85de-f13cf60c1ee7" "7c75fa70-4db5-11ee-85de-f13cf60c1ee7" "869adf20-4db5-11ee-85de-f13cf60c1ee7" "92ccaad0-4db5-11ee-85de-f13cf60c1ee7" "9f2e3910-4db5-11ee-85de-f13cf60c1ee7" "b3841060-4db5-11ee-85de-f13cf60c1ee7" "b3841062-4db5-11ee-85de-f13cf60c1ee7" "c71203d0-4db5-11ee-85de-f13cf60c1ee7" "dd616130-4db5-11ee-85de-f13cf60c1ee7" "ecf28480-4db5-11ee-85de-f13cf60c1ee7" "ed51bb80-4db5-11ee-85de-f13cf60c1ee7" "ed921fe0-4db5-11ee-85de-f13cf60c1ee7" "f5fbe712-4db5-11ee-85de-f13cf60c1ee7" "fd4fd172-4db5-11ee-85de-f13cf60c1ee7" "ffa86772-4db5-11ee-85de-f13cf60c1ee7" "0229e232-4db6-11ee-85de-f13cf60c1ee7")}}
+{:public true}
 :block/journal? false
-:block/updated-at 1694115734885
+:block/updated-at 1694116959335
 :block/created-at 1694114380261
 :block/type "whiteboard"
 :block/name "org chart [[det brændende sværd]]"
