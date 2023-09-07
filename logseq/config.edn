@@ -303,4 +303,5 @@
  :feature/enable-journals? false
  :default-home {:page "Sohl"}
  :ui/show-brackets? false
+ :journal/page-title-format "E, dd-MM-yyyy"
  }
