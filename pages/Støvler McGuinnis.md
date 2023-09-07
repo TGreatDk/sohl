@@ -1,7 +1,8 @@
 player-type:: NPC
 alive:: true
-affiliation:: [[Det brændende sværd]] 
+affiliation:: [[Det brændende sværd]]
 rank:: Lieutenant
+id:: 64fa1c09-0852-4c4a-93d3-fdf8d6107d3b
 
 - Age: ?
   Height: ?

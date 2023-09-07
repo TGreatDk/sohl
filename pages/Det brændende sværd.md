@@ -1,6 +1,7 @@
 - Logo
   collapsed:: true
 	- https://media.discordapp.net/attachments/1025301382225465354/1029093334477705237/unknown.png?width=898&height=898
+- {{embed [[Org chart [[det brændende sværd]]]]}}
 - En mindre gruppe af lejesvende, måske 50-70 mennesker. 
   Ejet og støttet af en tidligere eventyrer som har slået sig ned og startet et lejesvende kompagni efter nogle års færd rundt i verden.
 - Gruppen tager mod de fleste henvendelser, og er generelt på den side af en konflikt der har flest penge. De holder sig dog væk fra opgaver som er direkte modstridende mod ejerens moral, så man ser dem ikke beskytte penge afpressere, slavehandlere og deslige.
