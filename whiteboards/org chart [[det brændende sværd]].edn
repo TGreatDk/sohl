@@ -1,0 +1,109 @@
+{:blocks (
+{:block/created-at 1694114538370
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Amie"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a0acfbc0-4db3-11ee-85de-f13cf60c1ee7"
+:noFill false
+:point [504 -48]
+:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:collapsedHeight 2282.78125
+:nonce 1694114438812}}
+:block/updated-at 1694114538370} 
+{:block/content "Amie ((64ecc549-1aee-4b82-a4c3-450d2275988d))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"}
+:block/parent 
+{:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"}
+:block/properties 
+{}
+:block/uuid #uuid "64fa22c1-c2dd-482d-8745-b96beb27a81e"} 
+{:block/created-at 1694114551077
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Lark"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dd143d80-4db3-11ee-85de-f13cf60c1ee7"
+:noFill false
+:point [616 24]
+:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:collapsedHeight 2415.6875
+:nonce 1694114539912}}
+:block/updated-at 1694114551077} 
+{:block/created-at 1694114564125
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "M'Ork"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e46d30f0-4db3-11ee-85de-f13cf60c1ee7"
+:noFill false
+:point [280 120]
+:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:collapsedHeight 2085.40625
+:nonce 1694114552249}}
+:block/updated-at 1694114564125})
+:pages (
+{:block/uuid #uuid "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:name "org chart [[det brændende sværd]]"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("a0acfbc0-4db3-11ee-85de-f13cf60c1ee7" "dd143d80-4db3-11ee-85de-f13cf60c1ee7" "e46d30f0-4db3-11ee-85de-f13cf60c1ee7")}}
+:block/updated-at 1694114564125
+:block/created-at 1694114380261
+:block/type "whiteboard"
+:block/name "org chart [[det brændende sværd]]"
+:block/original-name "org chart [[det brændende sværd]]"})}
