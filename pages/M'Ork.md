@@ -10,7 +10,7 @@ rank:: Major
   Height 192 cm
   Race: Half-orc
   
-  ![Mork image](https://media.discordapp.net/attachments/1025102722850115625/1049290244798824468/Mork.jpg?width=561&height=701)[[F, 08-09-2023]]
+  ![Mork image](https://media.discordapp.net/attachments/1025102722850115625/1049290244798824468/Mork.jpg?width=561&height=701)
   
   M’ork was born in a large fishing town by the ocean, already at the age of 5 he started working as a cabin boy along with his brother Sh’all who is 2 years older than him on his father’s whaling ship. through the years they both became very competent sailors and a rivalry between them started growing.
   
