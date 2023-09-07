@@ -1,12 +1,12 @@
 {:blocks (
-{:block/created-at 1694115239920
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "#6a96b2"
 :rotation 0
 :borderRadius 2
-:index 21
+:index 20
 :scale [1 1]
 :scaleLevel "md"
 :fill "#cfdde6"
@@ -25,8 +25,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114748841
 :italic false}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694117417686
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040580
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -34,7 +34,7 @@
 :stroke "#e6e6e6"
 :collapsed true
 :borderRadius 8
-:index 7
+:index 6
 :scale [1 1]
 :pageId "Lark"
 :scaleLevel "md"
@@ -52,8 +52,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 2415.6875
 :nonce 1694114540032}}
-:block/updated-at 1694117417686} 
-{:block/created-at 1694115687451
+:block/updated-at 1694118040580} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -62,7 +62,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 24
+:index 23
 :scale [1 1]
 :pageId "Støvler McGuinnis"
 :scaleLevel "md"
@@ -80,8 +80,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 698.374870037416
 :nonce 1694115236859}}
-:block/updated-at 1694115687451} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -107,8 +107,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114748905
 :italic false}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694117417686
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -117,7 +117,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 6
+:index 5
 :scale [1 1]
 :pageId "Amie"
 :scaleLevel "md"
@@ -135,8 +135,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 2282.78125
 :nonce 1694114439078}}
-:block/updated-at 1694117417686} 
-{:block/created-at 1694115734864
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -145,7 +145,7 @@
 :rotation 0
 :collapsed false
 :borderRadius 8
-:index 31
+:index 30
 :scale [1 1]
 :pageId "64fa2654-4b94-4c8b-9441-5c5d871a22c4"
 :scaleLevel "md"
@@ -163,13 +163,13 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 0
 :nonce 1694115399524}}
-:block/updated-at 1694115734864} 
-{:block/created-at 1694115482604
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 14
+:index 13
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -199,15 +199,15 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114677884
 :italic false}}
-:block/updated-at 1694115482604} 
-{:block/created-at 1694115391518
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke "#ffffff"
 :borderRadius 0
-:index 29
+:index 28
 :scale [1 1]
 :scaleLevel "md"
 :fill "#ffffff"
@@ -229,13 +229,13 @@
 :nonce 1694114803093
 :italic false
 :text "Private"}}
-:block/updated-at 1694115391518} 
-{:block/created-at 1694115482604
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 12
+:index 11
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -265,13 +265,13 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114601901
 :italic false}}
-:block/updated-at 1694115482604} 
-{:block/created-at 1694115618068
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 35
+:index 34
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -301,15 +301,15 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115440722
 :italic false}}
-:block/updated-at 1694115618068} 
-{:block/created-at 1694115384659
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "#000"
 :rotation 0
 :borderRadius 2
-:index 28
+:index 27
 :scale [1 1]
 :scaleLevel "md"
 :fill "#3a4a51"
@@ -328,13 +328,13 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114748932
 :italic false}}
-:block/updated-at 1694115384659} 
-{:block/created-at 1694115482603
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 11
+:index 10
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -364,12 +364,12 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114597284
 :italic false}}
-:block/updated-at 1694115482603} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040580
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 15
+{:index 14
 :scale [1 1]
 :type "image"
 :assetId "4951be50-4db4-11ee-85de-f13cf60c1ee7"
@@ -383,63 +383,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114721726
 :clipping 0}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115618070
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke "purple"
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 34
-:scale [1 1]
-:pageId "64fa2654-4b94-4c8b-9441-5c5d871a22c4"
-:scaleLevel "md"
-:fill "purple"
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [96 41]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "ed921fe0-4db5-11ee-85de-f13cf60c1ee7"
-:noFill false
-:isLocked false
-:point [904 688]
-:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
-:collapsedHeight 0
-:nonce 1694115399587}}
-:block/updated-at 1694115618070} 
-{:block/created-at 1694115239920
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#b0b0b0"
-:rotation 0
-:borderRadius 2
-:index 5
-:scale [1 1]
-:scaleLevel "md"
-:fill "#fcfcfc"
-:type "box"
-:size [1168 160]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label ""
-:id "59616070-4db4-11ee-85de-f13cf60c1ee7"
-:fontWeight 400
-:noFill false
-:point [128 -168]
-:fontSize 20
-:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
-:nonce 1694114748741
-:italic false}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115622950
+:block/updated-at 1694118040580} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -460,6 +405,61 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
+:id "ed921fe0-4db5-11ee-85de-f13cf60c1ee7"
+:noFill false
+:isLocked false
+:point [904 688]
+:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:collapsedHeight 0
+:nonce 1694115399587}}
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040548
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "#b0b0b0"
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill "#fcfcfc"
+:type "box"
+:size [1168 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "59616070-4db4-11ee-85de-f13cf60c1ee7"
+:fontWeight 400
+:noFill false
+:point [128 -168]
+:fontSize 20
+:parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
+:nonce 1694114748741
+:italic false}}
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040580
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "purple"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 32
+:scale [1 1]
+:pageId "64fa2654-4b94-4c8b-9441-5c5d871a22c4"
+:scaleLevel "md"
+:fill "purple"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
 :id "ed51bb80-4db5-11ee-85de-f13cf60c1ee7"
 :noFill false
 :isLocked false
@@ -467,8 +467,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 0
 :nonce 1694115399521}}
-:block/updated-at 1694115622950} 
-{:block/created-at 1694117417685
+:block/updated-at 1694118040580} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -477,7 +477,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 8
+:index 7
 :scale [1 1]
 :pageId "M'Ork"
 :scaleLevel "md"
@@ -495,8 +495,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 2085.40625
 :nonce 1694114552639}}
-:block/updated-at 1694117417685} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -522,13 +522,13 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114748942
 :italic false}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115622951
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 36
+:index 35
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -558,15 +558,15 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115452971
 :italic false}}
-:block/updated-at 1694115622951} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 16
+:index 15
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -587,12 +587,12 @@
 :nonce 1694114802888
 :italic false
 :text "General"}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115371903
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 23
+{:index 22
 :scale [1 1]
 :type "image"
 :assetId "5eeaa780-4db5-11ee-85de-f13cf60c1ee7"
@@ -606,8 +606,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115187551
 :clipping 0}}
-:block/updated-at 1694115371903} 
-{:block/created-at 1694117417686
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -616,7 +616,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 9
+:index 8
 :scale [1 1]
 :pageId "Jaylin"
 :scaleLevel "md"
@@ -634,12 +634,12 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 1242.375
 :nonce 1694114566836}}
-:block/updated-at 1694117417686} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040580
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 18
+{:index 17
 :scale [1 1]
 :type "image"
 :assetId "dcef0cd0-4db4-11ee-85de-f13cf60c1ee7"
@@ -653,12 +653,12 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114969783
 :clipping 0}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040580} 
+{:block/created-at 1694118040580
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 20
+{:index 19
 :scale [1 1]
 :type "image"
 :assetId "24028bb0-4db5-11ee-85de-f13cf60c1ee7"
@@ -672,7 +672,7 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115088598
 :clipping 0}}
-:block/updated-at 1694115239920} 
+:block/updated-at 1694118040580} 
 {:block/content "[[Amie]] ((64ecc549-1aee-4b82-a4c3-450d2275988d))"
 :block/format :markdown
 :block/left 
@@ -682,7 +682,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64fa22c1-c2dd-482d-8745-b96beb27a81e"} 
-{:block/created-at 1694115239920
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -711,12 +711,12 @@
 :nonce 1694114803063
 :italic false
 :text "Captain"}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 17
+{:index 16
 :scale [1 1]
 :type "image"
 :assetId "a32420d0-4db4-11ee-85de-f13cf60c1ee7"
@@ -730,8 +730,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114872491
 :clipping 0}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115641923
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -740,7 +740,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 25
+:index 24
 :scale [1 1]
 :pageId "Razzz"
 :scaleLevel "md"
@@ -758,15 +758,15 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 341.00003345165703
 :nonce 1694115253998}}
-:block/updated-at 1694115641923} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 19
+:index 18
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -788,8 +788,8 @@
 :nonce 1694114803097
 :italic false
 :text "Major"}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115644390
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -798,7 +798,7 @@
 :rotation 0
 :collapsed false
 :borderRadius 8
-:index 32
+:index 31
 :scale [1 1]
 :pageId "64fa2654-4b94-4c8b-9441-5c5d871a22c4"
 :scaleLevel "md"
@@ -817,15 +817,15 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 0
 :nonce 1694115399567}}
-:block/updated-at 1694115644390} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 4
+:index 38
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -847,15 +847,15 @@
 :nonce 1694114803073
 :italic false
 :text "Colonel"}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 22
+:index 21
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -877,13 +877,13 @@
 :nonce 1694114803043
 :italic false
 :text "Lieutenant"}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115482604
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 10
+:index 9
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -913,8 +913,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114589428
 :italic false}}
-:block/updated-at 1694115482604} 
-{:block/created-at 1694115239920
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -940,8 +940,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694114748917
 :italic false}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115620940
+:block/updated-at 1694118040579} 
+{:block/created-at 1694118040580
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -950,7 +950,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 26
+:index 25
 :scale [1 1]
 :pageId "Rus-Maàs"
 :scaleLevel "md"
@@ -968,8 +968,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 309.99998441640605
 :nonce 1694115274417}}
-:block/updated-at 1694115620940} 
-{:block/created-at 1694117417686
+:block/updated-at 1694118040580} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -978,7 +978,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 13
+:index 12
 :scale [1 1]
 :pageId "Thrud"
 :scaleLevel "md"
@@ -996,8 +996,8 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 434.9999945358631
 :nonce 1694114656560}}
-:block/updated-at 1694117417686} 
-{:block/created-at 1694115615059
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1006,7 +1006,7 @@
 :rotation 0
 :collapsed true
 :borderRadius 8
-:index 27
+:index 26
 :scale [1 1]
 :pageId "Mutti"
 :scaleLevel "md"
@@ -1024,12 +1024,12 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 310
 :nonce 1694115295189}}
-:block/updated-at 1694115615059} 
-{:block/created-at 1694115366786
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040579
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 30
+{:index 29
 :scale [1 1]
 :type "image"
 :assetId "c7105620-4db5-11ee-85de-f13cf60c1ee7"
@@ -1043,7 +1043,7 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115362072
 :clipping 0}}
-:block/updated-at 1694115366786} 
+:block/updated-at 1694118040579} 
 {:block/content "50 men\nid:: 64fa2654-4b94-4c8b-9441-5c5d871a22c4"
 :block/format :markdown
 :block/left 
@@ -1053,12 +1053,12 @@
 :block/properties 
 {:id "64fa2654-4b94-4c8b-9441-5c5d871a22c4"}
 :block/uuid #uuid "64fa2654-4b94-4c8b-9441-5c5d871a22c4"} 
-{:block/created-at 1694115644391
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 37
+:index 36
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -1088,13 +1088,13 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115456942
 :italic false}}
-:block/updated-at 1694115644391} 
-{:block/created-at 1694115734870
+:block/updated-at 1694118040548} 
+{:block/created-at 1694118040548
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 38
+:index 37
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -1124,7 +1124,7 @@
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :nonce 1694115461128
 :italic false}}
-:block/updated-at 1694115734870} 
+:block/updated-at 1694118040548} 
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
@@ -1137,9 +1137,17 @@
 :pages (
 {:block/uuid #uuid "64fa2ec0-6a69-4ebf-959b-b1511c059b72"
 :block/properties 
-{:public true}
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64fa2ec0-6a69-4ebf-959b-b1511c059b72"
+:name "org chart [[det brændende sværd]]"
+:bindings 
+{}
+:nonce 0
+:assets []
+:shapes-index ("125e66e0-4db5-11ee-85de-f13cf60c1ee7" "125e66e2-4db5-11ee-85de-f13cf60c1ee7" "c75cbde0-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed40-4db4-11ee-85de-f13cf60c1ee7" "59616070-4db4-11ee-85de-f13cf60c1ee7" "a0acfbc0-4db3-11ee-85de-f13cf60c1ee7" "dd143d80-4db3-11ee-85de-f13cf60c1ee7" "e46d30f0-4db3-11ee-85de-f13cf60c1ee7" "ecf8ff10-4db3-11ee-85de-f13cf60c1ee7" "fa8aa8e2-4db3-11ee-85de-f13cf60c1ee7" "ff278992-4db3-11ee-85de-f13cf60c1ee7" "01f04682-4db4-11ee-85de-f13cf60c1ee7" "2261c970-4db4-11ee-85de-f13cf60c1ee7" "2f3ec942-4db4-11ee-85de-f13cf60c1ee7" "4952a8b0-4db4-11ee-85de-f13cf60c1ee7" "79d04b50-4db4-11ee-85de-f13cf60c1ee7" "a3253240-4db4-11ee-85de-f13cf60c1ee7" "dcf01e40-4db4-11ee-85de-f13cf60c1ee7" "c75cbde2-4db4-11ee-85de-f13cf60c1ee7" "24043960-4db5-11ee-85de-f13cf60c1ee7" "3acee140-4db5-11ee-85de-f13cf60c1ee7" "3acee142-4db5-11ee-85de-f13cf60c1ee7" "5eeb6ad0-4db5-11ee-85de-f13cf60c1ee7" "7c75fa70-4db5-11ee-85de-f13cf60c1ee7" "869adf20-4db5-11ee-85de-f13cf60c1ee7" "92ccaad0-4db5-11ee-85de-f13cf60c1ee7" "9f2e3910-4db5-11ee-85de-f13cf60c1ee7" "b3841060-4db5-11ee-85de-f13cf60c1ee7" "b3841062-4db5-11ee-85de-f13cf60c1ee7" "c71203d0-4db5-11ee-85de-f13cf60c1ee7" "dd616130-4db5-11ee-85de-f13cf60c1ee7" "ecf28480-4db5-11ee-85de-f13cf60c1ee7" "ed51bb80-4db5-11ee-85de-f13cf60c1ee7" "ed921fe0-4db5-11ee-85de-f13cf60c1ee7" "f5fbe712-4db5-11ee-85de-f13cf60c1ee7" "fd4fd172-4db5-11ee-85de-f13cf60c1ee7" "ffa86772-4db5-11ee-85de-f13cf60c1ee7" "0229e232-4db6-11ee-85de-f13cf60c1ee7" "8cf8ed42-4db4-11ee-85de-f13cf60c1ee7")}}
 :block/journal? false
-:block/updated-at 1694117417718
+:block/updated-at 1694118040548
 :block/created-at 1694114380261
 :block/type "whiteboard"
 :block/name "org chart [[det brændende sværd]]"
