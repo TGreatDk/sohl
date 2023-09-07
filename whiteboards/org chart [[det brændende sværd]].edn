@@ -1,10 +1,10 @@
 {:blocks (
-{:block/created-at 1694115239920
+{:block/created-at 1694117268502
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke "#e6e6e6"
+:stroke "green"
 :rotation 0
 :collapsed true
 :borderRadius 8
@@ -12,7 +12,7 @@
 :scale [1 1]
 :pageId "Amie"
 :scaleLevel "md"
-:fill "#e6e6e6"
+:fill "green"
 :compact false
 :isAutoResizing false
 :type "logseq-portal"
@@ -25,8 +25,8 @@
 :point [632 -104]
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 2282.78125
-:nonce 1694114439077}}
-:block/updated-at 1694115239920} 
+:nonce 1694114439078}}
+:block/updated-at 1694117268502} 
 {:block/content "[[Amie]] ((64ecc549-1aee-4b82-a4c3-450d2275988d))"
 :block/format :markdown
 :block/left 
@@ -36,19 +36,19 @@
 :block/properties 
 {}
 :block/uuid #uuid "64fa22c1-c2dd-482d-8745-b96beb27a81e"} 
-{:block/created-at 1694115239920
+{:block/created-at 1694117268502
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke "#e6e6e6"
+:stroke "green"
 :collapsed true
 :borderRadius 8
 :index 7
 :scale [1 1]
 :pageId "Lark"
 :scaleLevel "md"
-:fill "#e6e6e6"
+:fill "green"
 :compact false
 :isAutoResizing false
 :type "logseq-portal"
@@ -61,14 +61,14 @@
 :point [504 56]
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 2415.6875
-:nonce 1694114540031}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115239920
+:nonce 1694114540032}}
+:block/updated-at 1694117268502} 
+{:block/created-at 1694117268502
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke "#e6e6e6"
+:stroke "green"
 :rotation 0
 :collapsed true
 :borderRadius 8
@@ -76,7 +76,7 @@
 :scale [1 1]
 :pageId "M'Ork"
 :scaleLevel "md"
-:fill "#e6e6e6"
+:fill "green"
 :compact false
 :isAutoResizing false
 :type "logseq-portal"
@@ -89,14 +89,14 @@
 :point [504 216]
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 2085.40625
-:nonce 1694114552638}}
-:block/updated-at 1694115239920} 
-{:block/created-at 1694115239920
+:nonce 1694114552639}}
+:block/updated-at 1694117268502} 
+{:block/created-at 1694117268503
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke "#e6e6e6"
+:stroke "green"
 :rotation 0
 :collapsed true
 :borderRadius 8
@@ -104,7 +104,7 @@
 :scale [1 1]
 :pageId "Jaylin"
 :scaleLevel "md"
-:fill "#e6e6e6"
+:fill "green"
 :compact false
 :isAutoResizing false
 :type "logseq-portal"
@@ -117,8 +117,8 @@
 :point [736 216]
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 1242.375
-:nonce 1694114566835}}
-:block/updated-at 1694115239920} 
+:nonce 1694114566836}}
+:block/updated-at 1694117268503} 
 {:block/created-at 1694115482604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -227,12 +227,12 @@
 :nonce 1694114601901
 :italic false}}
 :block/updated-at 1694115482604} 
-{:block/created-at 1694115239918
+{:block/created-at 1694117268503
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
-:stroke "#e6e6e6"
+:stroke "green"
 :rotation 0
 :collapsed true
 :borderRadius 8
@@ -240,7 +240,7 @@
 :scale [1 1]
 :pageId "Thrud"
 :scaleLevel "md"
-:fill "#e6e6e6"
+:fill "green"
 :compact false
 :isAutoResizing false
 :type "logseq-portal"
@@ -253,8 +253,8 @@
 :point [736 376]
 :parentId "64fa224c-a878-4b6b-b362-bd15bca1349c"
 :collapsedHeight 434.9999945358631
-:nonce 1694114656559}}
-:block/updated-at 1694115239918} 
+:nonce 1694114656560}}
+:block/updated-at 1694117268503} 
 {:block/created-at 1694115482604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1289,7 +1289,7 @@
 :size [210 150]}]
 :shapes-index ("125e66e0-4db5-11ee-85de-f13cf60c1ee7" "125e66e2-4db5-11ee-85de-f13cf60c1ee7" "c75cbde0-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed40-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed42-4db4-11ee-85de-f13cf60c1ee7" "59616070-4db4-11ee-85de-f13cf60c1ee7" "a0acfbc0-4db3-11ee-85de-f13cf60c1ee7" "dd143d80-4db3-11ee-85de-f13cf60c1ee7" "e46d30f0-4db3-11ee-85de-f13cf60c1ee7" "ecf8ff10-4db3-11ee-85de-f13cf60c1ee7" "fa8aa8e2-4db3-11ee-85de-f13cf60c1ee7" "ff278992-4db3-11ee-85de-f13cf60c1ee7" "01f04682-4db4-11ee-85de-f13cf60c1ee7" "2261c970-4db4-11ee-85de-f13cf60c1ee7" "2f3ec942-4db4-11ee-85de-f13cf60c1ee7" "4952a8b0-4db4-11ee-85de-f13cf60c1ee7" "79d04b50-4db4-11ee-85de-f13cf60c1ee7" "a3253240-4db4-11ee-85de-f13cf60c1ee7" "dcf01e40-4db4-11ee-85de-f13cf60c1ee7" "c75cbde2-4db4-11ee-85de-f13cf60c1ee7" "24043960-4db5-11ee-85de-f13cf60c1ee7" "3acee140-4db5-11ee-85de-f13cf60c1ee7" "3acee142-4db5-11ee-85de-f13cf60c1ee7" "5eeb6ad0-4db5-11ee-85de-f13cf60c1ee7" "7c75fa70-4db5-11ee-85de-f13cf60c1ee7" "869adf20-4db5-11ee-85de-f13cf60c1ee7" "92ccaad0-4db5-11ee-85de-f13cf60c1ee7" "9f2e3910-4db5-11ee-85de-f13cf60c1ee7" "b3841060-4db5-11ee-85de-f13cf60c1ee7" "b3841062-4db5-11ee-85de-f13cf60c1ee7" "c71203d0-4db5-11ee-85de-f13cf60c1ee7" "dd616130-4db5-11ee-85de-f13cf60c1ee7" "ecf28480-4db5-11ee-85de-f13cf60c1ee7" "ed51bb80-4db5-11ee-85de-f13cf60c1ee7" "ed921fe0-4db5-11ee-85de-f13cf60c1ee7" "f5fbe712-4db5-11ee-85de-f13cf60c1ee7" "fd4fd172-4db5-11ee-85de-f13cf60c1ee7" "ffa86772-4db5-11ee-85de-f13cf60c1ee7" "0229e232-4db6-11ee-85de-f13cf60c1ee7")}}
 :block/journal? false
-:block/updated-at 1694117051062
+:block/updated-at 1694117268518
 :block/created-at 1694114380261
 :block/type "whiteboard"
 :block/name "org chart [[det brændende sværd]]"
