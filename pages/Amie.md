@@ -1,8 +1,9 @@
 character-type:: player-character, NPC
 character-player:: Tobhias
 alive:: true
-affiliation:: [[Det brændende sværd]] 
+affiliation:: [[Det brændende sværd]]
 rank:: General
+id:: 64ecc549-1aee-4b82-a4c3-450d2275988d
 
 - ### Amie Longstride
   
