@@ -7,8 +7,9 @@
 - Gruppen er sammensat af en del mindre grupper der er aktive rundt omkring, med 2 store tvær-gående grupperinger "Klingen" og "Fæstet". 
   Klingen er de udførende, hvor fæstet står for at sammensætte missioner, bestemme hvor der er mest brug for dem, og fastsætte kontrakter.
 - ### Personer
-	- #Fausvar - jeres handler
-	- #Golos - Ejer og bestyrer af kompaniet.
+	- [[Amie]] - The current leader
+	- [[Fausvar]] - ~~Jeres handler~~ Død
+	- [[Golos]] - ~~Ejer og bestyrer af kompaniet.~~ Død
 	- "Indkrævnings holdet"
 		- Korgat
 			- En Halv-ogre med en pendant for at spørge sidst og slå først

@@ -35,6 +35,8 @@ alive:: true
 	- ?
 	- ?
 	- ?
-### Rumors
+- ### Rumors
 	- Har aldrig smagt en fisk
 	- Bedstefar var en højtrangerende præst inden "Skandalen"
+-
+- Currently the leader of [[Det brændende sværd]]
