@@ -16,7 +16,7 @@ exclude-from-graph-view:: true
 		  query-sort-desc:: false
 		  #+BEGIN_QUERY
 		  {
-		  :title "All [[Journals]]"
+		  :title "All Journals"
 		  :query [:find (pull ?p [*])
 		  :where
 		  [?b :block/page ?p]
