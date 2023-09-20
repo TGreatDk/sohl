@@ -16,4 +16,4 @@
 	  character-player:: <Name>
 	  alive:: true
 	  affiliation:: 
-	  rank::
+	  [[rank]]::
