@@ -1,11 +1,11 @@
 exclude-from-graph-view:: true
 
 - Sohl
-- #Religioner
-- #[[Arts linier]]
+- [[Religioner]]
+- [[Arts linier]]
 - Områder
-	- #[[Green Sea]]
-	- #Gammelstad
+	- [[Green Sea]]
+	- [[Gammelstad]]
 - [[Party]]
 	- {{embed ((63b6ae8a-825e-4ffd-a312-a146bac7c99c))}}
 	- {{embed ((63b6ae8a-b75c-4057-9d9d-933efa62dbd5))}}
@@ -16,7 +16,7 @@ exclude-from-graph-view:: true
 		  query-sort-desc:: false
 		  #+BEGIN_QUERY
 		  {
-		  :title "All Journals"
+		  :title "All [[Journals]]"
 		  :query [:find (pull ?p [*])
 		  :where
 		  [?b :block/page ?p]
