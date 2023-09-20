@@ -1,8 +1,10 @@
-player-type:: NPC
+id:: 64fa1c09-0852-4c4a-93d3-fdf8d6107d3b
+page-type:: [[Character]]
+template-type:: ((650aa39a-ddc1-4286-b3fd-4337a230b4e7))
+character-type:: NPC
 alive:: true
 affiliation:: [[Det brændende sværd]]
 rank:: Lieutenant
-id:: 64fa1c09-0852-4c4a-93d3-fdf8d6107d3b
 
 - Age: ?
   Height: ?

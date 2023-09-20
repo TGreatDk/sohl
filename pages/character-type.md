@@ -16,7 +16,6 @@ exclude-from-graph-view:: true
 	  #+END_QUERY
 	-
 - ### All player characters
-  collapsed:: true
 	- query-properties:: [:page :character-player :alive]
 	  #+BEGIN_QUERY
 	  {
