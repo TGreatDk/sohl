@@ -8,7 +8,7 @@ id:: 64fa1c09-0852-4c4a-93d3-fdf8d6107d3b
   Height: ?
   Weight: ?
   Race: Gnome
--
+- ![image.png](../assets/image_1694771710780_0.png)
 - He's a new recruit for [[Det brændende sværd]] recruited by [[Amie]]
 -
 - ## Traits

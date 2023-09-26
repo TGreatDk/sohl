@@ -1,0 +1,1 @@
+- Gnomer er velkendt for deres hang til stærkmad.
