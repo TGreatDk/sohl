@@ -18,6 +18,13 @@
 			- En Githyanki - kalder sig selv en "Ronin" hvad end det betyder. Han har et magisk sværd som han fører med meget stor præcision
 		- Vadok
 			- En Half-Elf/Half-Dwarf magiker - gruppens face og talerør. Er et stort røvhul, men "Get's the job done"
+	- #### Members list
+	  collapsed:: true
+		- {{query (property :affiliation [[Det brændende sværd]])}}
+		  query-table:: true
+		  query-properties:: [:page :character-type :alive :rank]
+		  query-sort-by:: character-type
+		  query-sort-desc:: true
 - ### Job board
   id:: 63bea30a-ea48-4399-98df-38de878f68cf
 	- Guard a merchant caravan
