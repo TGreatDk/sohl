@@ -3,7 +3,9 @@ Year:: 2023
 Month:: May
 Date:: 31st
 
-- #[[The eternal city]]
-- [[The grey cave]]
--
+- #Timeline
 - #[[Sohl that was]]
+-
+- Locations
+	- #[[The eternal city]]
+	- #[[The grey cave]]
