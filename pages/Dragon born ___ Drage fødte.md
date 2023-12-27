@@ -1,4 +1,4 @@
 - De dragefødte er en magisk skabt race.
-- I den #[[Drage krigen]] for 400år siden blev de dragefødte skabt at #Oswin den store, mager kongen af Sorvagur.
+- I #[[Drage krigen]] for 400år siden blev de dragefødte skabt at #Oswin den store, mager kongen af #Sorvagur.
 	- Magien visite sig desværre for stærk, hvilket efterlod området ødelagt og hjemsøgt.
 - Dragefødte er ulovlige i de fleste områder - de ses som tjenere af Oswin, og som onde skabninger der kun kan bringe ulykke.
