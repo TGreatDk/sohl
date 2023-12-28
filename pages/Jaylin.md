@@ -16,6 +16,8 @@ rank:: Major
   Jeylin har en tatovering på ryggen, (haft lige siden [[M'Ork]] og [[Kurt]] fandt ham) som lige siden han døde i skoven har krypet ned af højre arm og nu er ude til hånden, og har et mærkelig symbol.
   
   Når man bruger detect magic på Jeylin kan man se en mystisk old gammel magi, som Jeylin nu er blevet en conduit for denne magi, om der er flere er ikke godt at vide, eller om Jeylin er den eneste denne magi har valgt
+
+  Jaylin er unik i at han har adgang til flere domæner, hvorfor dette er ved gruppen endnu ikke, men de har en idé....
 -
 - ### Known facts
 	- Was saved by [[M'Ork]] and [[Kurt]]
