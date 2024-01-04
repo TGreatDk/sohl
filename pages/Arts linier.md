@@ -1,4 +1,4 @@
-- #[[Dragon born / Drage fødte]]
+- #Dragon born / Drage fødte
 - #Elvere
 - #Humans
 - #Halflings
