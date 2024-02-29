@@ -13,7 +13,7 @@ rank:: Colonel
   Weight: 78 kg
   Race: Half-elf
   
-  ![Lark hoodless](https://cdn.discordapp.com/attachments/1030158179310506095/1030207905225506916/00f13f907f85df52b69725b4a55e4435.jpg)[[F, 08-09-2023]]
+  ![Lark hoodless](https://cdn.discordapp.com/attachments/1030158179310506095/1030207905225506916/00f13f907f85df52b69725b4a55e4435.jpg)
   
   Eyes: blue
   Hair: dark brown
