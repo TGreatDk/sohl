@@ -3,6 +3,7 @@ template-type:: ((650aa39a-ddc1-4286-b3fd-4337a230b4e7))
 character-type:: NPC
 alive:: true
 affiliation:: Unknown
+race:: [[Goblin]] 
 alias:: Kitbut
 
 - Gitbut er en goblin vi mødte som var taget til fange af en Hill Giant.

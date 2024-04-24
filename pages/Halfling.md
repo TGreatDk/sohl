@@ -4,3 +4,6 @@ alias:: Halflings
 
 - Er vilde væsner
 - Real world inspiration: Indianere / Mongolien
+- {{query (property :race [[Halfling]] )}}
+  query-table:: true
+  query-properties:: [:page :character-type :alive :affiliation]

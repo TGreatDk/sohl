@@ -1,1 +1,1 @@
--
+- {{query (and (property :template-type "((650aa39a-ddc1-4286-b3fd-4337a230b4e7))") (not (property :race)))}}
