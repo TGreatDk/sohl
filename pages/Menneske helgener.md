@@ -1,5 +1,3 @@
-exclude-from-graph-view:: true
-
 - #[[Anariel  Saint of Storms]]
 - #[[Azarael Saint of Sacrifice]]
 - #[[Bezaliel Saint of Shadows]]

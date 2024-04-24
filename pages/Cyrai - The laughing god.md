@@ -1,4 +1,3 @@
-exclude-from-graph-view:: true
 alias:: Cyrai
 
 - Den næste gud er fra Elver Etymologien. "Cyrai", også kendt som "Den leene gud", "Den største Harlekin", "Den store fupmager" og "Den første fupmager (trickster)", er den elviske gud for artister, og snydere (tricksters). Som den eneste elviske gud menes Cyrai at have overlevet elvernes store fald. Det er en kendt tro at Cyrai er den eneste som kender den snoede vej gennem de tusinde portaler i efterlivet. Cyrai er den elviske gud som står for domænerne deception, stealth, krativitet, kunst og trickery. De elvere der følger ham er kendt som Harlekiner, og er ikædt en traditionelt elvisk harlekin tøjstil med tern og stærke farver. De dukker ofte op og forsvinder igen uden nogen tydelig grund.
