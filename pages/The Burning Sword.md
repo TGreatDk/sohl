@@ -48,7 +48,7 @@ alias:: Det brændende sværd
 		- Time:: 1 year
 		  Pay:: 1000g
 		  Notes:: #Fausvar says that this guy is cheap and that's why nobody has taken the contract yet
-	- #[[Mysteriet om Bordouxridderes orden]]
+	- [[Mysteriet om Bordouxridderes orden]]
 		- Time:: 6 months
 		  Pay:: 1000g per person +10000g if we deliver the old magic sword
-		  Notes:: Very dangerous job which may involve #[[Knaus den røde drage]] and [[Oswin]]
+		  Notes:: Very dangerous job which may involve [[Knaus den røde drage]] and [[Oswin]]

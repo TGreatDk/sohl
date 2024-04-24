@@ -1,4 +1,4 @@
-- Has ruled #[[Green Sea]] for the past 1000 years.
+- Has ruled [[Green Sea]] for the past 1000 years.
 - Rules over the area with an iron fist, and the might of her [[Black sphere]] regiments.
 -
 -

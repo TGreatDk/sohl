@@ -7,7 +7,7 @@ race:: [[Human]]
 affiliation:: Unknown
 
 - Ridder på #Bessie
-- Forstår kromanden fra #[[Unnamed village in Green Sea]] kroen
+- Forstår kromanden fra [[Unnamed village in Green Sea]] kroen
   card-last-score:: nil
   card-repeats:: 0
   card-next-schedule:: nil

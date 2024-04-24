@@ -3,8 +3,8 @@ Year:: 2346
 Month:: October
 Date:: 31st
 
-- #Timeline
-- ## #[[Sohl that was]]
+- [[Timeline]]
+- ## [[Sohl that was]]
 - [[Home rules]]
 -
 - [[The Party]]
@@ -15,8 +15,8 @@ Date:: 31st
 	- [[The Burning Sword]]
 		- {{embed ((63bea30a-ea48-4399-98df-38de878f68cf))}}
 - Locations
-	- #[[The eternal city]]
-	- #[[The grey cave]]
+	- [[The eternal city]]
+	- [[The grey cave]]
 - #+BEGIN_QUERY
   {
   :title "All Journals"
