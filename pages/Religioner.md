@@ -1,4 +1,4 @@
-- #[[Menneske helgener]]
-- #[[Elver guder]]
-- #[[Dværgenes guder]]
-- #[[Orkernes guddomme]]
+- [[Menneske helgener]]
+- [[Elver guder]]
+- [[Dværgenes guder]]
+- [[Orkernes guddomme]]

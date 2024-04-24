@@ -9,11 +9,11 @@
 	  Month:: March
 	  Date:: 14th
 	- When all hope seemed gone, a lone warrior rallied the defenders of [[Gammelstad]] and led them to victory, sending the invaders back to their own continent. 
-	  In the power vacuum, they seized power and crowned them self "[[The emperor]]".
+	  In the power vacuum, they seized power and crowned them self "[[The Emperor]]".
 - Rebuilding
   id:: 658c983b-941c-4059-8c20-f6819e5556d2
 	- year:: 1348
 	  month:: April
 	  date:: 12th
 	- After the siege and destruction of much of [[Green Sea]] , a great rebuild started taking place.
-	  The emperor decided to rebuild in the former location of [[Gammelstad]] and establish the new seat of [[The eternal city]]
+	  [[The emperor]] decided to rebuild in the former location of [[Gammelstad]] and establish the new seat of [[The eternal city]]

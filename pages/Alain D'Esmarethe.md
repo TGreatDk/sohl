@@ -5,5 +5,5 @@ alive:: true
 race:: [[Human]]
 affiliation:: Unknown
 
-- The guy who told us about #[[Mysteriet om Bordouxridderes orden]]
+- The guy who told us about [[Mysteriet om Bordouxridderes orden]]
 -

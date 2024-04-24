@@ -4,5 +4,6 @@ character-type:: NPC
 alive:: false
 race:: Unknown
 affiliation:: Unknown
+alias:: Penmue
 
 - ![angel-fantasy-painting-rep-ost-creativity-immortal--whose-name-was-lost-to--ages---http---www-angelarium-net-grigori---penemu](https://i.imgur.com/WcLMaW3.jpeg){:height 618, :width 366}

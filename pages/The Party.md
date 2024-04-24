@@ -31,5 +31,5 @@ template-type:: ((662926fa-a9dd-4f6f-a4ea-72427607f3e3))
 	- #### Current
 		- Rebuilding [[The Burning Sword]]
 	- #### Past
-		- #[[Mysteriet om Bordouxridderes orden]]
+		- [[Mysteriet om Bordouxridderes orden]]
 		- #[[Mysterious disappearances]]
