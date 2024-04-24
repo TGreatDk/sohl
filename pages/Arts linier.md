@@ -1,7 +1,8 @@
-- #Dragon born / Drage fødte
-- #Elvere
-- #Humans
-- #Halflings
-- #Orker
-- #Dværge
-- #Gnomer
+- [[Dragonborn]] / [[Dragefødte]]
+- [[Elves]]
+- [[Humans]]
+- [[Halflings]]
+- [[Orcs]]
+- [[Dwarves]]
+- [[Gnomes]]
+- [[Dragons]]

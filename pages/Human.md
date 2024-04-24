@@ -1,0 +1,3 @@
+alias:: Humans, Menneske, Mennesker
+
+-

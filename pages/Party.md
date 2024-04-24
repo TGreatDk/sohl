@@ -10,6 +10,7 @@
 		- [[Lark]]
 		- [[Thrud]] (Intern)
 	- #### Former
+	  collapsed:: true
 		- ~~[[Kurt]]~~ (Deceased)
 		- ~~[[M'Ork]]~~ (Petrified)
 -

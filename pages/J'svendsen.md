@@ -2,6 +2,7 @@ page-type:: [[Character]]
 template-type:: ((650aa39a-ddc1-4286-b3fd-4337a230b4e7))
 character-type:: NPC
 alive:: true
+affiliation:: Unknown
 
 - Lille, bred og meget mørk i huden.
 - Detektiv ved vagtstation nr 13 i #Gammelstad
