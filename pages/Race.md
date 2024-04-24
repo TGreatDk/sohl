@@ -6,10 +6,15 @@ title:: Race
 
 - ### Humanoids
 	- [[Dragonborns]] / [[Dragefødte]]
-	- [[Elves]]
 	- [[Humans]]
+		- [[Half-Orcs]]
+		- [[Half-Elves]]
+	- [[Elves]]
+		- [[Half-Elves]]
+		- [[Wood-Elves]]
 	- [[Halflings]]
 	- [[Orcs]]
+		- [[Half-Orcs]]
 	- [[Dwarves]]
 	- [[Gnomes]]
 	- [[Goblins]]

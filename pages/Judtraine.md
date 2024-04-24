@@ -3,12 +3,12 @@ template-type:: ((650aa714-faaa-462c-a70a-efeb8f2b8952))
 character-type:: player-character
 character-player:: Lasse
 alive:: true
-affiliation:: None 
+race:: [[Wood-Elf]]
+affiliation:: [[Party]] 
 rank:: None
 
 - ## Judtraine Silverlock - A Big Game Hunter
 - Gender: Female
-  Race: Wood Elf
   Age: 146
   Height: 5’5”
   Alignment: Neutral
