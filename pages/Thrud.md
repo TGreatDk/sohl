@@ -4,7 +4,7 @@ character-type:: player-character
 character-player:: Thommas
 alive:: true
 race:: [[Dwarf]]
-affiliation:: [[Det brændende sværd]] 
+affiliation:: [[The Party]], [[The Burning Sword]] 
 rank:: Captain
 
 - Age: ?

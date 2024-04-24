@@ -4,7 +4,7 @@ character-type:: player-character
 character-player:: Thobias
 alive:: true
 race:: [[Human]]
-affiliation:: [[Det brændende sværd]] 
+affiliation:: [[The Party]], [[The Burning Sword]] 
 rank:: Major
 
 -

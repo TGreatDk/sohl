@@ -1,3 +1,0 @@
-- Gammel orden som fandtes for 2-300 år siden
-- Kæmpede og blev måske udslettet af Knauf - den måske største røde drage der har fandtes.
-- Kæmpede i krigen for kongernes arv.

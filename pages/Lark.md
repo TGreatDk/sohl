@@ -4,7 +4,7 @@ character-type:: player-character
 character-player:: Benjamin
 alive:: true
 race:: [[Half-Elf]]
-affiliation:: [[Det brændende sværd]] 
+affiliation:: [[The Party]], [[The Burning Sword]] 
 rank:: Colonel
 
 - ### Real name unknown

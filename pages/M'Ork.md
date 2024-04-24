@@ -4,7 +4,7 @@ character-type:: player-character
 character-player:: Lasse
 alive:: true
 race:: [[Half-Orc]]
-affiliation:: [[Det brændende sværd]] 
+affiliation:: [[The Burning Sword]] 
 rank:: Major
 
 - ### The barbarian whaler

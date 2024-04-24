@@ -27,6 +27,25 @@
 	- page-type:: [[Race]]
 	  template-type:: ((662916a4-2a9f-4887-804c-28c3abaa56b6))
 	  alias::
-	- {{query (property :race <% current page %>)}}
-	  query-table:: true
+	- query-table:: true
 	  query-properties:: [:page :character-type :alive :affiliation]
+	  #+BEGIN_QUERY
+	  {
+	  :title "Characters"
+	  :query (property :race <% current page %>)
+	  }
+	  #+END_QUERY
+- Organisation
+  template:: Organisation
+  template-including-parent:: false
+  id:: 662926fa-a9dd-4f6f-a4ea-72427607f3e3
+	- page-type:: [[Organisation]]
+	  template-type:: ((662926fa-a9dd-4f6f-a4ea-72427607f3e3))
+	- query-properties:: [:page :character-type :alive :affiliation]
+	  query-table:: true
+	  #+BEGIN_QUERY
+	  {
+	  :title "Members"
+	  :query (property :affiliation <% current page %>)
+	  }
+	  #+END_QUERY

@@ -1,3 +1,7 @@
+page-type:: [[Organisation]]
+template-type:: ((662926fa-a9dd-4f6f-a4ea-72427607f3e3))
+alias:: Det brændende sværd
+
 - Logo
   collapsed:: true
 	- https://media.discordapp.net/attachments/1025301382225465354/1029093334477705237/unknown.png?width=898&height=898
@@ -19,12 +23,14 @@
 		- Vadok
 			- En Half-Elf/Half-Dwarf magiker - gruppens face og talerør. Er et stort røvhul, men "Get's the job done"
 	- #### Members list
-	  collapsed:: true
-		- {{query (property :affiliation [[Det brændende sværd]])}}
+		- query-properties:: [:page :character-type :alive :affiliation]
 		  query-table:: true
-		  query-properties:: [:page :character-type :alive :rank]
-		  query-sort-by:: character-type
-		  query-sort-desc:: true
+		  #+BEGIN_QUERY
+		  {
+		  :title "Members"
+		  :query (property :affiliation [[The Burning Sword]])
+		  }
+		  #+END_QUERY
 - ### Job board
   id:: 63bea30a-ea48-4399-98df-38de878f68cf
 	- Guard a merchant caravan
@@ -45,4 +51,4 @@
 	- #[[Mysteriet om Bordouxridderes orden]]
 		- Time:: 6 months
 		  Pay:: 1000g per person +10000g if we deliver the old magic sword
-		  Notes:: Very dangerous job which may involve #[[Knaus den røde drage]] and #Oswin
+		  Notes:: Very dangerous job which may involve #[[Knaus den røde drage]] and [[Oswin]]

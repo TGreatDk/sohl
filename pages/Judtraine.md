@@ -4,7 +4,7 @@ character-type:: player-character
 character-player:: Lasse
 alive:: true
 race:: [[Wood-Elf]]
-affiliation:: [[Party]] 
+affiliation:: [[The Party]] 
 rank:: None
 
 - ## Judtraine Silverlock - A Big Game Hunter

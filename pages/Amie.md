@@ -5,7 +5,7 @@ character-type:: player-character, NPC
 character-player:: Tobhias
 alive:: true
 race:: [[Wood-Elf]]
-affiliation:: [[Det brændende sværd]]
+affiliation:: [[The Burning Sword]]
 rank:: General
 
 - ### Amie Longstride
@@ -45,4 +45,4 @@ rank:: General
 	- Har aldrig smagt en fisk
 	- Bedstefar var en højtrangerende præst inden "Skandalen"
 -
-- Currently the leader of [[Det brændende sværd]]
+- Currently the leader of [[The Burning Sword]]
