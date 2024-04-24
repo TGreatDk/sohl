@@ -18,8 +18,7 @@ Date:: 31st
 - Locations
   - #[[The eternal city]]
   - #[[The grey cave]]
-- query-properties:: [:page]
-  #+BEGIN_QUERY
+- #+BEGIN_QUERY
   {
   :title "All Journals"
   :query [:find (pull ?p [*])
@@ -27,9 +26,7 @@ Date:: 31st
   [?b :block/page ?p]
   [?p :block/journal? true]
   [?p :block/journal-day ?d]]
-  :result-transform (fn [result]
-  (sort-by (fn [h]
-  (get (get h :block/page) :block/journal-day)) result))
+  :result-transform (fn [result] (reverse (sort-by (fn [h] (get h :block/journal-day)) result)))
   }
   #+END_QUERY
 -
