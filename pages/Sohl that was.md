@@ -4,7 +4,7 @@ Month:: February
 Date:: 29th
 
 - [[Religioner]]
-- [[Arts linier]]
+- [[Races]]
 - Områder
 	- [[Green Sea]]
 	- [[Gammelstad]]

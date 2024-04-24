@@ -5,7 +5,8 @@ Date:: 31st
 
 - #Timeline
 - #[[Sohl that was]]
-- #[[Home rules]]
+	-
+- [[Home rules]]
 -
 - [[Party]]
   collapsed:: true

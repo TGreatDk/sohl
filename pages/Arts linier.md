@@ -1,8 +1,0 @@
-- [[Dragonborn]] / [[Dragefødte]]
-- [[Elves]]
-- [[Humans]]
-- [[Halflings]]
-- [[Orcs]]
-- [[Dwarves]]
-- [[Gnomes]]
-- [[Dragons]]
