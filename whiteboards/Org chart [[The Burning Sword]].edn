@@ -205,7 +205,7 @@
 :block/left 
 {:block/uuid #uuid "64fa2654-4b94-4c8b-9441-5c5d871a22c4"}
 :block/parent 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/uuid #uuid "65033c2c-5a0f-469a-95f4-3b950593d313"} 
 {:block/created-at 1694118518952
 :block/properties 
@@ -425,7 +425,7 @@
 :block/left 
 {:block/uuid #uuid "65033c2c-5a0f-469a-95f4-3b950593d313"}
 :block/parent 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/uuid #uuid "65033c93-73d6-48a1-ba5f-5eece2d328bf"} 
 {:block/created-at 1694710025861
 :block/properties 
@@ -623,9 +623,9 @@
 {:block/content "public:: true"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/parent 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/properties 
 {:public true}
 :block/uuid #uuid "b5ba72e4-7561-4f17-b459-cf47e848d114"} 
@@ -672,14 +672,14 @@
 :block/left 
 {:block/uuid #uuid "65033c93-73d6-48a1-ba5f-5eece2d328bf"}
 :block/parent 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/uuid #uuid "65033ce1-c87d-4e11-82b2-12ce88c026d3"} 
 {:block/content "[[Amie]] ((64ecc549-1aee-4b82-a4c3-450d2275988d))"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "b5ba72e4-7561-4f17-b459-cf47e848d114"}
 :block/parent 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/properties 
 {}
 :block/uuid #uuid "64fa22c1-c2dd-482d-8745-b96beb27a81e"} 
@@ -1115,7 +1115,7 @@
 :block/left 
 {:block/uuid #uuid "64fa22c1-c2dd-482d-8745-b96beb27a81e"}
 :block/parent 
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"}
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"}
 :block/properties 
 {:id "64fa2654-4b94-4c8b-9441-5c5d871a22c4"}
 :block/uuid #uuid "64fa2654-4b94-4c8b-9441-5c5d871a22c4"} 
@@ -1156,12 +1156,12 @@
 :italic false}}
 :block/updated-at 1694711070618})
 :pages (
-{:block/uuid #uuid "66291b40-fcf4-4be8-b0eb-9ec3e5f497bc"
+{:block/uuid #uuid "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
-{:id "65033460-b6b4-4023-908a-f2bce49a4f67"
-:name "org chart [[det brændende sværd]]"
+{:id "66292ffe-2234-4e6f-8dd7-77fc4150d8bf"
+:name "org chart [[the burning sword]]"
 :bindings 
 {:fd4fd170-4db5-11ee-85de-f13cf60c1ee7 
 {:id "fd4fd170-4db5-11ee-85de-f13cf60c1ee7"
@@ -1351,8 +1351,8 @@
 :size [210 150]}]
 :shapes-index ("b3841060-4db5-11ee-85de-f13cf60c1ee7" "125e66e0-4db5-11ee-85de-f13cf60c1ee7" "125e66e2-4db5-11ee-85de-f13cf60c1ee7" "c75cbde0-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed40-4db4-11ee-85de-f13cf60c1ee7" "8cf8ed42-4db4-11ee-85de-f13cf60c1ee7" "59616070-4db4-11ee-85de-f13cf60c1ee7" "a0acfbc0-4db3-11ee-85de-f13cf60c1ee7" "dd143d80-4db3-11ee-85de-f13cf60c1ee7" "e46d30f0-4db3-11ee-85de-f13cf60c1ee7" "ecf8ff10-4db3-11ee-85de-f13cf60c1ee7" "fa8aa8e2-4db3-11ee-85de-f13cf60c1ee7" "ff278992-4db3-11ee-85de-f13cf60c1ee7" "01f04682-4db4-11ee-85de-f13cf60c1ee7" "2261c970-4db4-11ee-85de-f13cf60c1ee7" "2f3ec942-4db4-11ee-85de-f13cf60c1ee7" "4952a8b0-4db4-11ee-85de-f13cf60c1ee7" "79d04b50-4db4-11ee-85de-f13cf60c1ee7" "a3253240-4db4-11ee-85de-f13cf60c1ee7" "dcf01e40-4db4-11ee-85de-f13cf60c1ee7" "c75cbde2-4db4-11ee-85de-f13cf60c1ee7" "24043960-4db5-11ee-85de-f13cf60c1ee7" "3acee140-4db5-11ee-85de-f13cf60c1ee7" "3acee142-4db5-11ee-85de-f13cf60c1ee7" "5eeb6ad0-4db5-11ee-85de-f13cf60c1ee7" "7c75fa70-4db5-11ee-85de-f13cf60c1ee7" "869adf20-4db5-11ee-85de-f13cf60c1ee7" "92ccaad0-4db5-11ee-85de-f13cf60c1ee7" "9f2e3910-4db5-11ee-85de-f13cf60c1ee7" "b3841062-4db5-11ee-85de-f13cf60c1ee7" "c71203d0-4db5-11ee-85de-f13cf60c1ee7" "dd616130-4db5-11ee-85de-f13cf60c1ee7" "f5fbe712-4db5-11ee-85de-f13cf60c1ee7" "fd4fd172-4db5-11ee-85de-f13cf60c1ee7" "0229e232-4db6-11ee-85de-f13cf60c1ee7" "348b3020-5320-11ee-b6b8-c9c902c18b23" "43a74a80-5320-11ee-b6b8-c9c902c18b23" "72531350-5320-11ee-b6b8-c9c902c18b23" "a0be29a0-5320-11ee-b6b8-c9c902c18b23")}}
 :block/journal? false
-:block/updated-at 1694711070616
+:block/updated-at 1713976163570
 :block/created-at 1694708831362
 :block/type "whiteboard"
-:block/name "org chart [[det brændende sværd]]"
-:block/original-name "org chart [[det brændende sværd]]"})}
+:block/name "org chart [[the burning sword]]"
+:block/original-name "Org chart [[The Burning Sword]]"})}
