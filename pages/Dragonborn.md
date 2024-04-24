@@ -1,1 +1,1 @@
-alias:: Dragefødte
+alias:: Dragonborns, Dragefødte
