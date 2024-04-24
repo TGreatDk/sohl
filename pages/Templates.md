@@ -18,7 +18,7 @@
 	  character-player:: <Name>
 	  alive:: true
 	  race:: <Race>
-	  [[affiliation]]::
+	  affiliation::
 	  rank::
 - Race
   template:: Race
