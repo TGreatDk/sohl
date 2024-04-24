@@ -305,4 +305,4 @@
  :editor/preferred-pasting-file? true
  :feature/enable-journals? false
  :ui/show-brackets? false
- :journal/page-title-format "EEE, MM/dd/yyyy"}
+ :journal/page-title-format "EEE, dd-MM-yyyy"}
