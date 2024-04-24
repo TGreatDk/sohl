@@ -296,13 +296,16 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :orphan-pages? false
- :excluded-pages? false
- :builtin-pages? false}
+ :graph/settings {
+    :journal? false
+ 	:orphan-pages? false
+ 	:excluded-pages? false
+ 	:builtin-pages? false
+ }
  :publishing/all-pages-public? true
  :feature/enable-timetracking? true
  :editor/preferred-pasting-file? true
- :feature/enable-journals? tr
+ :feature/enable-journals? true
  :default-home {:page "Sohl"}
  :ui/show-brackets? false
  :journal/page-title-format "E, dd-MM-yyyy"
