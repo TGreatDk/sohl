@@ -53,11 +53,11 @@
  ;; 3. `:two-spaces` as two spaces
  ;; :export/bullet-indentation :tab
 
-
- ;; When :all-pages-public? true, export repo would export all pages within that repo.
+;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
  ;; :publishing/all-pages-public? true
+ :publishing/all-pages-public? true
 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
@@ -74,6 +74,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
+ :default-home {:page "Sohl"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -296,17 +297,12 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {
-    :journal? false
- 	:orphan-pages? false
- 	:excluded-pages? false
- 	:builtin-pages? false
- }
- :publishing/all-pages-public? true
+ :graph/settings {:journal? false
+                  :orphan-pages? false
+                  :excluded-pages? false
+                  :builtin-pages? false}
  :feature/enable-timetracking? true
  :editor/preferred-pasting-file? true
  :feature/enable-journals? true
- :default-home {:page "Sohl"}
  :ui/show-brackets? false
- :journal/page-title-format "E, dd-MM-yyyy"
- }
+ :journal/page-title-format "E, dd-MM-yyyy"}
