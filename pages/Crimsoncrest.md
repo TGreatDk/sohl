@@ -4,5 +4,3 @@ character-type:: NPC
 alive:: false
 race:: [[Dragon]] 
 affiliation:: Unknown
-
-- Is a [[Dragon]]
