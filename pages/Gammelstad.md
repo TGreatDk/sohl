@@ -1,3 +1,6 @@
+page-type:: [[Location]]
+template-type:: ((662aba98-6952-4d95-a032-2713d56bef89))
+
 - ![Fantasy, City, HD wallpaper](https://c4.wallpaperflare.com/wallpaper/360/283/617/fantasy-city-hd-wallpaper-preview.jpg){:height 427, :width 728}
 -
 - Byen styres af 4 forskellige Laug, "Magikerne", "Præstene", "Rider ordnerne", "Handelsmændene".

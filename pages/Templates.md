@@ -18,7 +18,7 @@
 	  character-player:: <Name>
 	  alive:: true
 	  race:: <Race>
-	  [[affiliation]]::
+	  [[affiliation::
 	  rank::
 - Race
   template:: Race
@@ -49,3 +49,9 @@
 	  :query (property :affiliation <% current page %>)
 	  }
 	  #+END_QUERY
+- Location
+  template:: Location
+  template-including-parent:: false
+  id:: 662aba98-6952-4d95-a032-2713d56bef89
+	- page-type:: [[Location]]
+	  template-type:: ((662aba98-6952-4d95-a032-2713d56bef89))
