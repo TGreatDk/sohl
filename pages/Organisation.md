@@ -1,5 +1,5 @@
 exclude-from-graph-view:: true
-alias:: Organisations, Group, Groups
+alias:: Organisations, [[Group]], [[Groups]]
 color:: lightblue
 icon:: 
 
