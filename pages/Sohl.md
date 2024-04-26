@@ -8,8 +8,6 @@ Date:: 31st
 - [[Home rules]]
 - [[Races]]
 -
--
--
 - [[The Party]]
   collapsed:: true
 	- {{embed ((63b6ae8a-825e-4ffd-a312-a146bac7c99c))}}
