@@ -5,4 +5,4 @@ alive:: true
 race:: Unknown
 affiliation:: [[The Emperor]]
 
--
+- Current location [[The Bastion]]
